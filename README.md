@@ -14,4 +14,27 @@ The main task is to restruct or minimize company's inventory while ensuring that
   <li>MS Excel</li>
 </ul>
 
-## Ste
+## Cleaning and Transforming Data
+
+In the process of cleaning and transforming data, I ccompleted the following task-
+
+**Task 1**:  Imported the MintClassics data, which was supplied as part of the Coursera project.
+
+**TASK 2**: Understood the mint classics data and its business processes with the help of EER (Extended Entity-Relationship) diagram provided in the project.
+
+**Task 3**: Analyzed the business issue and determine the tables that will be influenced.
+
+**Task 4**: Crafted proposals and advices for resolving the business issue.
+
+**Task 5**: Outlined the recommendations and conclusions, substantiated with the assistance of SQL scripts.
+
+
+## Data Analysis
+
+After conducting a thorough data analysis, I formulated several recommendations-
+
+<ul>
+  <li></li>
+</ul>
+
+            

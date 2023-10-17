@@ -31,10 +31,16 @@ In the process of cleaning and transforming data, I ccompleted the following tas
 
 ## Data Analysis
 
-After conducting a thorough data analysis, I formulated several recommendations-
+After conducting a thorough data analysis, I formulated the following recommendations-
 
 <ul>
-  <li></li>
+  <li>Based on our inventory analysis, it has been identified that Warehouse D maintains the lowest inventory levels, making it a prime candidate for elimination.Furthermore, we propose that Warehouse D's inventory can be efficiently relocated to Warehouse C, as Warehouse C currently holds the second lowest inventory.</li><br/>  
+  
+<li>After examining the product orders, it is advisable to consider the elimination of less frequently ordered or inactive products, taking into account their historical sales data. </li><br/>  
+
+<li>Modifying the prices of specific products with low sales can potentially facilitate the clearance of inventory.</li><br/>  
+
+<li>Customers who exhibit both a high purchase amount and a substantial credit limit should be given priority and incentivized to encourage increased purchases.</li>
 </ul>
 
             

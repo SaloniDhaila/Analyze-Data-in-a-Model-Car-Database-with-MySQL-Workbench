@@ -1,4 +1,4 @@
-# Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench
+# Analyze Data in a Model Car Database with MySQL Workbench
 
 **Project Description**
 
@@ -20,7 +20,7 @@ In the process of cleaning and transforming data, I ccompleted the following tas
 
 **Task 1**:  Imported the MintClassics data, which was supplied as part of the Coursera project.
 
-**TASK 2**: Understood the mint classics data and its business processes with the help of EER (Extended Entity-Relationship) diagram provided in the project.
+**Task 2**: Understood the mint classics data and its business processes with the help of EER (Extended Entity-Relationship) diagram provided in the project.
 
 **Task 3**: Analyzed the business issue and determine the tables that will be influenced.
 

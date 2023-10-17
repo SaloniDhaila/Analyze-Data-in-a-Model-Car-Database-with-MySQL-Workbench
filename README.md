@@ -43,4 +43,10 @@ After conducting a thorough data analysis, I formulated the following recommenda
 <li>Customers who exhibit both a high purchase amount and a substantial credit limit should be given priority and incentivized to encourage increased purchases.</li>
 </ul>
 
+
+These recommendations are founded on the analysis conducted with the support of SQL scripts, which are available for review here -
+
+
+
+
             

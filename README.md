@@ -44,7 +44,7 @@ After conducting a thorough data analysis, I formulated the following recommenda
 </ul>
 
 
-These recommendations are founded on the analysis conducted with the support of SQL scripts, which are available for review here -
+These recommendations are founded on the analysis conducted with the support of SQL scripts, which are available for review here - [MintClassics.sql](https://github.com/SaloniDhaila/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/blob/main/MintClassics.sql)
 
 
 

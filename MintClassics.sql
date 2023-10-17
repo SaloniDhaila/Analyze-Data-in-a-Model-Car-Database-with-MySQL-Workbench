@@ -1,7 +1,7 @@
 -- Analyze Data in a Model Car Database with MySQL Workbench
 
 
--- total quantity of stocks in all the warehouses 
+-- Total inventory in all the warehouses -
 
 SELECT
 warehousecode,
@@ -13,11 +13,11 @@ warehouseCode
 ORDER BY 
 total_inventory DESC;
 
--- As per the total inventory column the one warehouse with less inventory needs to ber evaluated for elimination --
+-- Warehouse D has the least inventory.
 
 
 
--- Less ordered or inactive products--
+-- Less ordered or inactive products
 
 SELECT 
 OD.productCode,
@@ -34,7 +34,7 @@ OD.productCode = P.productCode
 ORDER BY
 quantityOrdered;
 
--- inventory of the product with less sales needs to be eliminated --
+-- Inventory of the product with less sales needs to be eliminated.
 
 
 
@@ -58,7 +58,7 @@ p.buyPrice
 ORDER BY
 p.buyPrice DESC;
 
--- adjusting the prices of specific products with low sales will help to clear the inventory more 
+-- Adjusting the prices of specific products with low sales will help to clear the inventory more 
 
 
 
@@ -78,7 +78,7 @@ cu.customerNumber = p.customerNumber
 ORDER BY
 payments_made DESC;
 
--- Customers with high purchase amount with high credit limit should be given more incentives such as discounts, coupons tec..so that they can purchase more --
+-- Customers with high purchase amount and with high credit limit should be Considered more and should be provided with incentives so that they can purchase more .
 
 
 

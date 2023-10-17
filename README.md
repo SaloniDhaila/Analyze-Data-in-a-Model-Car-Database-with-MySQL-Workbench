@@ -21,7 +21,7 @@ In the process of cleaning and transforming data, I completed the following task
 
 **Task 1**:  Imported the MintClassics data, which was supplied as part of the Coursera project.
 
-**Task 2**: Understood the mint classics data and its business processes with the help of EER (Extended Entity-Relationship) diagram provided in the project.
+**Task 2**: Understood the mint classics data and its business processes with the help of [EER (Extended Entity-Relationship)](https://github.com/SaloniDhaila/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench/blob/main/MintClassicsDataModel.png) diagram provided in the project.
 
 **Task 3**: Analyzed the business issue and determine the tables that will be influenced.
 

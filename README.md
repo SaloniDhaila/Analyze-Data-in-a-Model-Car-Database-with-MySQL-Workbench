@@ -10,7 +10,7 @@ The main task was to analyze data within a relational database, focusing on aidi
 
 **Tools Used**
 <ul>
-  <li>MySQL Workbrench</li>
+  <li>MySQL Workbench</li>
   <li>MS Excel</li>
 </ul>
 
